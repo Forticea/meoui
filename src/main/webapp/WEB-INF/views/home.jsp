@@ -128,7 +128,7 @@
 		var myCenter = new google.maps.LatLng(33.386581, 126.558209);
 		var mapProp = {
 			center : myCenter,
-			zoom : 12,
+			zoom : 10,
 			scrollwheel : false,
 			draggable : false,
 			mapTypeId : google.maps.MapTypeId.ROADMAP

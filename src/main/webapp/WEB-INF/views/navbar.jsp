@@ -28,10 +28,10 @@
 			</ul>
 		</div>
 		<ul class="nav navbar-nav col-md-12">
-			<li class="active col-md-2"><a href="/meoui/attractionlist.jsp">제주 관광명소 소개</a></li>
-			<li class="col-md-2"><a href="#">길 찾기</a></li>
-			<li class="col-md-2"><a href="#">숙박 시설</a></li>
-			<li class="col-md-2"><a href="#">모임 게시판</a></li>
+			<li class="col-md-2"><a href="/meoui/attractionlist.jsp">제주 관광명소 소개</a></li>
+			<li class="col-md-2"><a href="/meoui/directions.jsp">길 찾기</a></li>
+			<li class="col-md-2"><a href="/meoui/accomodationlist.jsp">숙박 시설</a></li>
+			<li class="col-md-2"><a href="/meoui/meetingboard.jsp">모임 게시판</a></li>
 			<li class="col-md-2"><a href="/meoui/noticeboard.jsp">공지사항</a></li>
 			<li class="col-md-2"><a href="/meoui/mypage.jsp">마이페이지</a></li>
 		</ul>
